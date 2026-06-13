@@ -1,0 +1,1 @@
+KALMAN_WINDOW = 50 

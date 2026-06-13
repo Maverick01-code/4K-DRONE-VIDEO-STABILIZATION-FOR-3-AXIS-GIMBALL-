@@ -1,0 +1,5 @@
+opencv-python>=4.8
+numpy>=1.24
+scipy>=1.11
+tqdm>=4.66
+matplotlib>=3.7      # optional – only needed for --save-plot
